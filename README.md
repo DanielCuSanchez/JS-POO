@@ -1,3 +1,3 @@
-# ygyuguy
+# Aplicación simple de JS Vanilla
 
-Este proyecto esa en fase de desarrollo
+Este proyecto muestra de forma simple la estructura cliente servidor. De forma local con localstorage. 
